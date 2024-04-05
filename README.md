@@ -1,6 +1,10 @@
-<h1 align="center">Album This is photo</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+# Photo Album Nuxt App
+
+In This App I am using Nuxt Tailwind and GraphQl
+
+
+I am using api and query with Graph GraphQl
+This app is fully responsive 
+
+
