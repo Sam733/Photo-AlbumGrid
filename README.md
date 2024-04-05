@@ -1,14 +1,14 @@
 
-# Photo Album Nuxt App
+# Front-End Developer Task:
+Photo Album Grid
 
-In This App I am using Nuxt Tailwind and GraphQl
-
-
-I am using api and query with Graph GraphQl
-This app is fully responsive 
-
-
-
+In This App I am using Nuxt.js Tailwind and GraphQl to Develop a responsive photo album grid application
+using
+Nuxt.js,
+GraphQL for data fetching,
+and Tailwind CSS for styling.
+The application will display albums fetched from a GraphQL
+API, with a focus on a clean, responsive design.
 
 
 
@@ -28,5 +28,28 @@ This app is fully responsive
 - Graph QL
 - Composition Api
 
+Setup
+Make sure to install the dependencies:
 
+# yarn
+yarn install
+
+# npm
+npm install
+
+# pnpm
+pnpm install --shamefully-hoist
+
+Development Server
+Start the development server on http://localhost:3000
+
+npm run dev
+Production
+Build the application for production:
+
+npm run build
+Locally preview production build:
+
+npm run preview
+Checkout the deployment documentation for more information.
 
